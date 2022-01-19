@@ -1,3 +1,7 @@
+body {
+  background-color: cadetblue;
+}
+
 header {
-  background-color: aqua;
+  border: 7px dashed goldenrod;
 }
